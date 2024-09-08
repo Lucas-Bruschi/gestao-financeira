@@ -29,6 +29,8 @@ pip install flask
 ```
 
 3. Execute a aplicação:
-```sell
+```shell
 python app.py
 ```
+
+4. Abra o navegador e acesse http://127.0.0.1:5000 para usar a aplicação.
